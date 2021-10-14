@@ -4,17 +4,25 @@
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🚀 I’m currently working on TO-Done Rocket List Planner Chrome Extension 
-- ![Download Image will apply here:](https://chrome.google.com/webstore/detail/to-done-rocket-planner/nnmfajngjkedfjodhldodbbnmbdjkchk?hl=en-US&authuser=0) 
-- 
+
+Download  my lastest Applications and Chrom Extensions on Google Store: 
+
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/%E2%80%94Pngtree%E2%80%94cartoon%20creative%20element%20space%20rocket_5549888.png' alt='Rocket Planner' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/to-done-rocket-planner/nnmfajngjkedfjodhldodbbnmbdjkchk?hl=en-US&authuser=0)  [<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/owl-icon125x125.png' alt='linkedin' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/nigthowl-mode%F0%9F%A6%89/eeejechfiigialpjicekkgeohaiklhke?hl=en-US&authuser=0) 
+
+
 - 🌱 I’m currently learning JAVASCRIPT, REACT 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/52a396f76b4a89c0446087c0050f87ff8b58e573/heroku.png' alt='heroku' max-width='100%' height='40'>]() 
 
  
 
-
 -Social Medias Connect with me: Say Hi!💬
-
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/linkedin.png' alt='linkedin' max-width='100%' height='40'>]() 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/pinpng.com-twitch-png-589064.png' alt='twitch' max-width='100%' height='40'>]() 
+
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/iconLogo.png' alt='Slack logo' max-width='100%' height='40'>]() 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/52a396f76b4a89c0446087c0050f87ff8b58e573/figma.png' alt='figma' width='40' height='40'>]( ) 
+
+
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/photoshopLogo.png' alt='photoshopLogo' max-width='100%' height='40'>]() 
 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/twitter.png' alt='twitter' max-width='100%' height='40'>]() 
@@ -38,7 +46,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/Vue%20Icon.png' alt='Vue icon' max-width='100%' height='40'>]() 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/PythonCustom.png' alt='Python' max-width='100%' height='40'>]() 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/a1f0c0069a5e1802b26f0056cddf663599796b9c/Python.png' alt='Python' max-width='100%' height='40'>]() 
 
 <!-- edits -->
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/pytorch-logo-dark.png' alt='pytorch icon' max-width='100%' height='40'>]() 
@@ -58,7 +66,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Redux_icon.png' alt='redux' width='40' height='40'>]( ) 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/MongoDB.png' alt='mongodb' width='40' height='40'>]( ) 
 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/ce0bce06f2f94aa32f24b323586c233b305f09dd/tensorflow_logo.png' alt='tensorflow' max-width='100%' height='40'>]( ) 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/52a396f76b4a89c0446087c0050f87ff8b58e573/kisspng-tensorflow-artificial-intelligence-brand-logo-lear-rapidswitch-nvidia-powered-servers-5b67156664c2e8.6694362815334823424127.png' alt='tensorflow' max-width='100%' height='40'>]( ) 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/swift%20icon.png' alt='swift' width='40' height='40'>]( )  
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/f8cb928d12807a92b0cd9acee831104cbd2915dc/Firebase_Icon.png' alt='firebase' width='40' height='40'>]( ) 
 
