@@ -1,5 +1,7 @@
 # Bonjour, je m'appelle Christian, I am a Fullstack developer and im building my real-life simulation with Javscript and M.E.R.N <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
+![Profile views](https://gpvc.arturio.dev/ChanqoDev)
+
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' height='500' max-width="100%">]()   
 
 
@@ -8,9 +10,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanqoDev&show_icons=true) 
 
 
-
-
-![Profile views](https://gpvc.arturio.dev/ChanqoDev)
 
 ### Download at Chrome Web Store : 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/%E2%80%94Pngtree%E2%80%94cartoon%20creative%20element%20space%20rocket_5549888.png' alt='RocketPlanner' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/to-done-rocket-planner/nnmfajngjkedfjodhldodbbnmbdjkchk?hl=en-US&authuser=0) To-do Rocket Planner   
