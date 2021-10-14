@@ -2,6 +2,9 @@
 
 #### Full Stack Developer
  
+ 
+ 
+ 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/droidtocat.png' alt='github octocat' height='400' width="450">]()  
 
 Building my real-life simulation with MERN🪐
@@ -11,11 +14,15 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🚀🗒  I’m currently working on TO-Done Rocket List Planner Chrome Extension 
 - 🌱 I’m currently learning JAVASCRIPT, REACT 
 
-
+ 
 
 
 -Social Medias Connect with me: Say Hi!💬
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/garba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/d/)  [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/stackover%20flow.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/d)  [<img 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/garba/)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/d/) 
+
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/stackover%20flow.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/d)  
 
 
 - 🌱 Looking forward to learn: 
@@ -24,13 +31,18 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChanqoDev) 
 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Npm.png' alt='npm icon' width='40' height='40'>]() 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/HTML5.png' alt='html5 icon' width='40' height='40'>]() 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Npm.png' alt='npm icon' max-width='100%' height='40'>]() 
+
+
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/HTML5.png' alt='html5 icon' max-width='100%' height='40'>]() 
+
+
+
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/css%20icon.png' alt='css3 icon' width='40' height='40'>]( ) 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/JS_SquareIcon.png' alt='javascript' width='40' height='40'>]( ) 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/React_Logo_Subtitles.png' alt='react' width='40' height='40'>]( ) 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/NodeIcon_octo.png' alt='node-dot-js' width='40' height='40'>]( ) 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Git_icon.png' alt='git' width='40' height='40'>]( )
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Git_icon.png' alt='git' max-width='100%' height='40'>]( )
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Bootstrap.png' alt='bootstrap' width='40' height='40'>]( ) 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/jQuery_icon.png' alt='jquery' width='40' height='40'>]( ) 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Redux_icon.png' alt='redux' width='40' height='40'>]( ) 
