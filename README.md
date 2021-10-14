@@ -1,8 +1,8 @@
-# Bonjour, je m'appelle Christian, I am a Fullstack developer and im building my real-life simulation with JS and MERN <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+# Bonjour, je m'appelle Christian, I am a Fullstack developer and im building my real-life simulation with JS and MERN <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='100%' height='40'></a>
 
 ![Profile views](https://gpvc.arturio.dev/ChanqoDev)
 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' height='500' max-width="100%">]()   
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' height='350' max-width="100%">]()   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanqoDev&show_icons=true) 
 
