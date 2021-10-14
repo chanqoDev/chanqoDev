@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/ChanqoDev)
 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' height='350' max-width="100%">]()   
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' height='450' max-width="100%">]()   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanqoDev&show_icons=true) 
 
