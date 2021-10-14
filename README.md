@@ -6,27 +6,28 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanqoDev&show_icons=true) 
 
+### [<img src='https://github.com/chanqoDev/chanqoDev/blob/8c5cef470b383abc3a07ddfb9b21b209c2fd1295/chromeWebStore.png' alt='gith' max-width='100%'  height='50'>]() Download at Chrome Web Store 
+
+Click Icon To | Download App!
+------------- | -------------
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/%E2%80%94Pngtree%E2%80%94cartoon%20creative%20element%20space%20rocket_5549888.png' alt='RocketPlanner' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/to-done-rocket-planner/nnmfajngjkedfjodhldodbbnmbdjkchk?hl=en-US&authuser=0)  | To-do List Rocket Planner
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/owl-icon125x125.png' alt='linkedin' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/nigthowl-mode%F0%9F%A6%89/eeejechfiigialpjicekkgeohaiklhke?hl=en-US&authuser=0)  | NightOwl Extension
 
 
-### Download at Chrome Web Store : 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/%E2%80%94Pngtree%E2%80%94cartoon%20creative%20element%20space%20rocket_5549888.png' alt='RocketPlanner' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/to-done-rocket-planner/nnmfajngjkedfjodhldodbbnmbdjkchk?hl=en-US&authuser=0) To-do Rocket Planner   
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/owl-icon125x125.png' alt='linkedin' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/nigthowl-mode%F0%9F%A6%89/eeejechfiigialpjicekkgeohaiklhke?hl=en-US&authuser=0) NightOwl Extension
  
 
  
-###  Connect with me:
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/iconLogo.png' alt='Slack logo' max-width='100%' height='40'>]() 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/icons8-reddit-96.png' alt='reddit' max-width='100%' height='40'>]() 
+###  Connect with me: If you like my profile please give it a star :) 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/8c5cef470b383abc3a07ddfb9b21b209c2fd1295/gmail.png' alt='gith' max-width='100%'  height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/linkedin.png' alt='linkedin' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/twitter.png' alt='twitter' max-width='100%' height='40'>]() 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/pinpng.com-twitch-png-589064.png' alt='twitch' max-width='100%' height='40'>]() 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/pinpng.com-twitch-png-589064.png' alt='twitch' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/iconLogo.png' alt='Slack logo' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/icons8-reddit-96.png' alt='reddit' max-width='100%' height='40'>]() 
+
+ - - - -
+
+### [<img src='https://github.com/chanqoDev/chanqoDev/blob/ce0bce06f2f94aa32f24b323586c233b305f09dd/Github_Adventure.png' alt='gith' max-width='100%'  height='80'>]() Tech Stack, I’m currently working with:
 
 
-  
-### Tech Stack, I’m currently working with: 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/ce0bce06f2f94aa32f24b323586c233b305f09dd/Github_Adventure.png' alt='gith' max-width='100%'  height='50'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/JS_SquareIcon.png' alt='js' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/React_blueSub.png' alt='react' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Redux_icon.png' alt='redux' max-width='100%' height='40'>]() 
@@ -52,7 +53,6 @@
  
  
 ###  Databases, Tools & Editors:  
-  
   
  
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/f8cb928d12807a92b0cd9acee831104cbd2915dc/Firebase_Icon.png' alt='Firebase' max-width='100%' height='40'>]() 
