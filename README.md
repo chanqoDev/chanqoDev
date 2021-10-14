@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/ChanqoDev)
 <img src="https://img.shields.io/github/followers/ChanqoDev?label=Follow&amp;style=social" alt="GitHub followers">
 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' height='450' max-width="100%">]()   
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' max-height='100%' max-width="100%">]()   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanqoDev&show_icons=true) 
 
