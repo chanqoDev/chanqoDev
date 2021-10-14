@@ -1,11 +1,8 @@
-# Bonjour, je m'appelle Christian, I am a Fullstack developer and im building my real-life simulation with Javscript and M.E.R.N <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+# Bonjour, je m'appelle Christian, I am a Fullstack developer and im building my real-life simulation with JS and MERN <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
 ![Profile views](https://gpvc.arturio.dev/ChanqoDev)
 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' height='500' max-width="100%">]()   
-
-
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanqoDev&show_icons=true) 
 
@@ -27,11 +24,8 @@
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/pinpng.com-twitch-png-589064.png' alt='twitch' max-width='100%' height='40'>]() 
 
 
-
-
-
   
-## Tech Stack, I’m currently currently Focused on Learning: 
+### Tech Stack, I’m currently working with: 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ce0bce06f2f94aa32f24b323586c233b305f09dd/Github_Adventure.png' alt='gith' max-width='100%'  height='50'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/JS_SquareIcon.png' alt='js' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/React_blueSub.png' alt='react' max-width='100%' height='40'>]() 
@@ -57,8 +51,8 @@
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/swift%20icon.png' alt='swift' max-width='100%' height='40'>]() 
  
  
- 
-####  Databases, Tools & Editors  
+###  Databases, Tools & Editors:  
+  
   
  
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/f8cb928d12807a92b0cd9acee831104cbd2915dc/Firebase_Icon.png' alt='Firebase' max-width='100%' height='40'>]() 
@@ -67,7 +61,7 @@
  
  
  
-### 🌱 Looking forward to learn: 
+### 🌱 Looking forward to learning: 
 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/1f5616c0f65cd335349312fbe298cb6182709e4e/angular.png' alt='Angular' max-width='100%' height='40'>]()
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/Vue%20Icon.png' alt='Vue' max-width='100%' height='40'>]() 
