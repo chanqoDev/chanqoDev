@@ -1,6 +1,7 @@
 # Bonjour, je m'appelle Christian, I am a Fullstack developer and im building my real-life simulation with JS and MERN <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='100%' height='40'></a>
 
 ![Profile views](https://gpvc.arturio.dev/ChanqoDev)
+<img src="https://img.shields.io/github/followers/ChanqoDev?label=Follow&amp;style=social" alt="GitHub followers">
 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' height='450' max-width="100%">]()   
 
