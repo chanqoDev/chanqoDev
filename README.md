@@ -1,4 +1,4 @@
-# Bonjour, je m'appelle Christian, I am a Fullstack developer, building my real-life simulation with JS and MERN <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='100%' height='40'></a>
+# Bonjour, je m'appelle Christian, I am a Fullstack developer, building my real-life simulation with Javascript <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='100%' height='40'></a>
 
 ![Profile views](https://gpvc.arturio.dev/ChanqoDev)
 <img src="https://img.shields.io/github/followers/ChanqoDev?label=Follow&amp;style=social" alt="GitHub followers">
@@ -65,7 +65,6 @@ Click Icon To | Download App!
  
 ### 🌱 Looking forward to learning: 
 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/1f5616c0f65cd335349312fbe298cb6182709e4e/angular.png' alt='Angular' max-width='100%' height='40'>]()
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/Vue%20Icon.png' alt='Vue' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/a1f0c0069a5e1802b26f0056cddf663599796b9c/Python.png' alt='Python' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/pytorch-logo-dark.png' alt='pytor' max-width='100%' height='40'>]() 
