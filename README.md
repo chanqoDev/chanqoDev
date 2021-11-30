@@ -70,12 +70,14 @@ Click Icon To | Download App!
 <details>
 
 <summary>On The Horizon  </summary>
+ 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/52a396f76b4a89c0446087c0050f87ff8b58e573/kisspng-tensorflow-artificial-intelligence-brand-logo-lear-rapidswitch-nvidia-powered-servers-5b67156664c2e8.6694362815334823424127.png' alt='tensorflow' max-width='100%' height='40'>]()  
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/aws_dark.png' alt='aws' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/Vue%20Icon.png' alt='Vue' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/a1f0c0069a5e1802b26f0056cddf663599796b9c/Python.png' alt='Python' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/pytorch-logo-dark.png' alt='pytor' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/jupyter.png' alt='jupyter' max-width='100%' height='40'>]() 
 [<img src='https://raw.githubusercontent.com/chanqoDev/chanqoDev/main/keras-logo-small-wb-1.webp' alt='html5' max-width='100%' height='40'>]()
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/52a396f76b4a89c0446087c0050f87ff8b58e573/kisspng-tensorflow-artificial-intelligence-brand-logo-lear-rapidswitch-nvidia-powered-servers-5b67156664c2e8.6694362815334823424127.png' alt='tensorflow' max-width='100%' height='40'>]() 
+
  
 </details>
