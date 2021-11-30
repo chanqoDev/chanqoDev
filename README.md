@@ -47,7 +47,10 @@ Click Icon To | Download App!
 
 
 ###  Familiar Frameworks, Libraries, Databases, Tools & Editors:  
-  
+<details>
+
+<summary>View Technologies Stack </summary>
+
 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/Grunt.png' alt='Grunt' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/gulp_icon.png' alt='gulp'  max-width='100%' height='40'>]() 
@@ -61,16 +64,18 @@ Click Icon To | Download App!
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/swift%20icon.png' alt='swift' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/PostgreSQL.png' alt='PostgreSQL' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/52a396f76b4a89c0446087c0050f87ff8b58e573/heroku.png' alt='heroku' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/stackover%20flow.png' alt='stackoverflow' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/ce0bce06f2f94aa32f24b323586c233b305f09dd/Github_logo_White.png' alt='githu' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/Postman_Api_Logo.png' alt='Postma' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/mailchimp.jpeg' alt='mailchimp' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/d39682894c595e6c8fa2ff77c8b94b45492833e0/pinpng.com-slack-logo-png-813804.png' alt='Slack' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/photoshopLogo.png' alt='photoshop' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/52a396f76b4a89c0446087c0050f87ff8b58e573/figma.png' alt='figma'  max-width='100%' height='40'>]()  [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/xcode_icon.png' alt='xcode' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/VisualBasic.png' alt='vscode' max-width='100%' height='40'>]()  [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/atom_Editor.png' alt='atom' max-width='100%' height='40'>]() 
  
- 
+</details>
  
 ### 🌱 Looking forward to learning: 
+<details>
 
+<summary>On The Horizon  </summary>
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/aws_dark.png' alt='aws' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/Vue%20Icon.png' alt='Vue' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/a1f0c0069a5e1802b26f0056cddf663599796b9c/Python.png' alt='Python' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/pytorch-logo-dark.png' alt='pytor' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/jupyter.png' alt='jupyter' max-width='100%' height='40'>]() 
 [<img src='https://raw.githubusercontent.com/chanqoDev/chanqoDev/main/keras-logo-small-wb-1.webp' alt='html5' max-width='100%' height='40'>]()
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/aws_dark.png' alt='aws' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/52a396f76b4a89c0446087c0050f87ff8b58e573/kisspng-tensorflow-artificial-intelligence-brand-logo-lear-rapidswitch-nvidia-powered-servers-5b67156664c2e8.6694362815334823424127.png' alt='tensorflow' max-width='100%' height='40'>]() 
  
- 
+</details>
