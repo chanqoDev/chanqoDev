@@ -7,7 +7,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanqoDev&show_icons=true) 
 
-### [<img src='https://github.com/chanqoDev/chanqoDev/blob/8c5cef470b383abc3a07ddfb9b21b209c2fd1295/chromeWebStore.png' alt='gith' max-width='100%'  height='50'>]() Download at Chrome Web Store 
+### [<img src='https://github.com/chanqoDev/chanqoDev/blob/8c5cef470b383abc3a07ddfb9b21b209c2fd1295/chromeWebStore.png' alt='gith' max-width='100%'  height='50'>]() Download 2 of my most recent chrome extensions at Chrome Web Store! 
 
 Click Icon To | Download App!
 ------------- | -------------
