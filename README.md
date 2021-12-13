@@ -40,8 +40,7 @@ Click Icon To | Download App!
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/e155c4a4cc420ca5dce1aa9e0f1bc18993b46ba1/git_logo.png' alt='git' max-width='100%' height='40'>]()
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/JS_SquareIcon.png' alt='js' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/React_blueSub.png' alt='react' max-width='100%' height='40'>]() 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Redux_icon.png' alt='redux' max-width='100%' height='40'>]() 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/f8cb928d12807a92b0cd9acee831104cbd2915dc/Firebase_Icon.png' alt='Firebase' max-width='100%' height='40'>]() 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Redux_icon.png' alt='redux' max-width='100%' height='40'>]() [<img src='https://github.com/chanqoDev/chanqoDev/blob/f8cb928d12807a92b0cd9acee831104cbd2915dc/Firebase_Icon.png' alt='Firebase' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/MongoDB.png' alt='Mongodb' max-width='100%' height='40'>]() 
 
 
