@@ -18,7 +18,7 @@ Click Icon To | Download App!
  
 
  
-###  Connect with me: If you like my profile give it a Follow! :) Look forward to connecting with you!!
+###  Let's connnect ☕️!
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/8c5cef470b383abc3a07ddfb9b21b209c2fd1295/gmail.png' alt='gith' max-width='100%'  height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/linkedin.png' alt='linkedin' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/twitter.png' alt='twitter' max-width='100%' height='40'>]() 
@@ -47,7 +47,7 @@ Click Icon To | Download App!
 ###  Familiar Frameworks, Libraries, Databases, Tools & Editors:  
 <details>
 
-<summary>View Technologies Stack </summary>
+<summary>Technologies Stacks </summary>
 
 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/Grunt.png' alt='Grunt' max-width='100%' height='40'>]() 
@@ -67,7 +67,7 @@ Click Icon To | Download App!
 ### 🌱 Looking forward to learning: 
 <details>
 
-<summary>On The Horizon  </summary>
+<summary>Gravitating towards:  </summary>
 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/aws_dark.png' alt='aws' max-width='100%' height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/Vue%20Icon.png' alt='Vue' max-width='100%' height='40'>]() 
