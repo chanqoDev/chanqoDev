@@ -1,4 +1,4 @@
-# Bonjour, je m'appelle Christian, I am a Fullstack developer, building my real-life simulation with code. <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='100%' height='40'></a>
+# Bonjour, je m'appelle Christian, I am a Fullstack developer building my real-life simulation with code. <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='100%' height='40'></a>
 
 ![Profile views](https://gpvc.arturio.dev/ChanqoDev)
 <img src="https://img.shields.io/github/followers/ChanqoDev?label=Follow&amp;style=social" alt="GitHub followers">
