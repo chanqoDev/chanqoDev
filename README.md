@@ -3,9 +3,9 @@
 ![Profile views](https://gpvc.arturio.dev/ChanqoDev)
 <img src="https://img.shields.io/github/followers/ChanqoDev?label=Follow&amp;style=social" alt="GitHub followers">
 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' max-height='100%' max-width="100%">]()   
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/3103c44b3c100c007e3d379bb8bcca189a5c5406/Github_nonTransperant%20.jpeg' alt='githubBanner' max-height='80%' max-width="100%">]()   
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanqoDev&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanqoDev&hide=contribs,prs&show_icons=true) 
 
 ### [<img src='https://github.com/chanqoDev/chanqoDev/blob/8c5cef470b383abc3a07ddfb9b21b209c2fd1295/chromeWebStore.png' alt='gith' max-width='100%'  height='50'>]() Download 2 of my most recent chrome extensions at Chrome Web Store! 
 
