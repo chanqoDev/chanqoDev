@@ -30,38 +30,7 @@ Click Icon To | Download App!
 
 
 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/HTML5.png' alt='html5 icon' max-width='100%' height='40'>]() 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/css%20icon.png' alt='css3 icon' max-width='100%' height='40'>]() 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/JS_SquareIcon.png' alt='js' max-width='100%' height='40'>]() 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Bootstrap.png' alt='bootstrap' max-width='100%' height='50'>]() 
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/jQuery_icon.png' alt='jquery' max-width='100%' height='40'>]()
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/NodeIcon_octo.png' alt='node' max-width='100%' height='40'>]() 
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Npm.png' alt='npm icon' max-width='100%' height='40'>]() 
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/e155c4a4cc420ca5dce1aa9e0f1bc18993b46ba1/git_logo.png' alt='git' max-width='100%' height='40'>]()
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/Yarn.png' alt='Yarn' max-width='100%' height='40'>]() 
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/3a010e1391046abd2b31315218292dd6e2e10756/assets/Typescript.png' alt='tsx' max-width='100%' height='40'>]() 
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/React_blueSub.png' alt='react' max-width='100%' height='40'>]() 
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/3a010e1391046abd2b31315218292dd6e2e10756/assets/Material-ui.png' alt='material-ui' max-width='100%' height='40'>]()
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/3a010e1391046abd2b31315218292dd6e2e10756/assets/styled%20components.png' alt='styled-components' max-width='100%' height='40'>]()
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/3a010e1391046abd2b31315218292dd6e2e10756/assets/Serverless.png' alt='serverless Framework' max-width='100%' height='40'>]()
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Redux_icon.png' alt='redux' max-width='100%' height='40'>]() 
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/3a010e1391046abd2b31315218292dd6e2e10756/assets/aws_dark.png' alt='AWS' max-width='100%' height='40'>]() 
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/f8cb928d12807a92b0cd9acee831104cbd2915dc/Firebase_Icon.png' alt='Firebase' max-width='100%' height='40'>]() 
-
-
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/MongoDB.png' alt='Mongodb' max-width='100%' height='40'>]() 
+[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/HTML5.png' alt='html5 icon' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/css%20icon.png' alt='css3 icon' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/JS_SquareIcon.png' alt='js' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Bootstrap.png' alt='bootstrap' max-width='100%' height='50'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/jQuery_icon.png' alt='jquery' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/NodeIcon_octo.png' alt='node' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Npm.png' alt='npm icon' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/e155c4a4cc420ca5dce1aa9e0f1bc18993b46ba1/git_logo.png' alt='git' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/8a561d6d2b9b748aeef1428f85bb254374eb4992/Yarn.png' alt='Yarn' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/3a010e1391046abd2b31315218292dd6e2e10756/assets/Typescript.png' alt='tsx' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/React_blueSub.png' alt='react' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/3a010e1391046abd2b31315218292dd6e2e10756/assets/Material-ui.png' alt='material-ui' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/3a010e1391046abd2b31315218292dd6e2e10756/assets/styled%20components.png' alt='styled-components' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/3a010e1391046abd2b31315218292dd6e2e10756/assets/Serverless.png' alt='serverless Framework' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/Redux_icon.png' alt='redux' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/3a010e1391046abd2b31315218292dd6e2e10756/assets/aws_dark.png' alt='AWS' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/f8cb928d12807a92b0cd9acee831104cbd2915dc/Firebase_Icon.png' alt='Firebase' max-width='100%' height='40'>]()[<img src='https://github.com/chanqoDev/chanqoDev/blob/97df2cfb840377f368b2f4881c3edced43d4e69c/MongoDB.png' alt='Mongodb' max-width='100%' height='40'>]() 
 
 
 ###  Familiar Frameworks, Libraries, Databases, Tools & Editors:  
