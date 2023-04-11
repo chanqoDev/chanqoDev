@@ -26,7 +26,7 @@ Click Icon To | Download App!
 
  - - - -
 
-### [<img src='https://github.com/chanqoDev/chanqoDev/blob/ce0bce06f2f94aa32f24b323586c233b305f09dd/Github_Adventure.png' alt='gith' max-width='100%'  height='80'>]() Tech Stack, I’m currently working with:
+### [<img src='#' alt='gith' max-width='100%'  height='80'>]() Tech Stack, I’m currently working with:
 
 
 
