@@ -1,7 +1,7 @@
 # Hey there! I am Christian, A Fullstack developer building my real-life simulation with code. <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='100%' height='40'></a>
 
 
-![Profile views](https://gpvc.arturio.dev/ChanqoDev)
+[![Profile Views](https://img.shields.io/github/followers/ChanqoDev?label=Follow&style=social)](https://github.com/ChanqoDev)
 
 <img src="https://img.shields.io/github/followers/ChanqoDev?label=Follow&amp;style=social" alt="GitHub followers"> 
 
@@ -15,7 +15,8 @@ Click Icon To | Download App!
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/owl-icon125x125.png' alt='linkedin' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/nigthowl-mode%F0%9F%A6%89/eeejechfiigialpjicekkgeohaiklhke?hl=en-US&authuser=0)  | NightOwl Extension
 
 
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanqoDev)](https://github.com/chanqoDev)
+
 
  
 ###  Let's connnect ☕️!
