@@ -1,6 +1,6 @@
 # Hey there! I am Christian, A Fullstack developer building my real-life simulation with code. <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='100%' height='40'></a>
 
- [![Profile Views](https://img.shields.io/github/followers/ChanqoDev?label=Follow&style=social)](https://github.com/ChanqoDev)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=chanqoDev.repoName&count=2000)
 
 
 <img src="https://img.shields.io/github/followers/ChanqoDev?label=Follow&amp;style=social" alt="GitHub followers"> 
