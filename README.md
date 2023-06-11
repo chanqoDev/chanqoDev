@@ -1,10 +1,10 @@
 # Hey there! I am Christian, A Fullstack developer building my real-life simulation with code. <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='100%' height='40'></a>
 
+ [![Profile Views](https://img.shields.io/github/followers/ChanqoDev?label=Follow&style=social)](https://github.com/ChanqoDev)
 
 
 <img src="https://img.shields.io/github/followers/ChanqoDev?label=Follow&amp;style=social" alt="GitHub followers"> 
 
- [![Profile Views](https://img.shields.io/github/followers/ChanqoDev?label=Follow&style=social)](https://github.com/ChanqoDev)
 
 ### [<img src='https://github.com/chanqoDev/chanqoDev/blob/8c5cef470b383abc3a07ddfb9b21b209c2fd1295/chromeWebStore.png' alt='gith' max-width='100%'  height='50'>]() Download 2 of my most recent chrome extensions at Chrome Web Store! 
 
@@ -14,10 +14,6 @@ Click Icon To | Download App!
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/owl-icon125x125.png' alt='linkedin' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/nigthowl-mode%F0%9F%A6%89/eeejechfiigialpjicekkgeohaiklhke?hl=en-US&authuser=0)  | NightOwl Extension
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanqoDev)](https://github.com/chanqoDev)
-
-
- 
 ###  Let's connnect ☕️!
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/8c5cef470b383abc3a07ddfb9b21b209c2fd1295/gmail.png' alt='gith' max-width='100%'  height='40'>]() 
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/ad812902cfcff685e39e1935c6d063fe5a39249c/linkedin.png' alt='linkedin' max-width='100%' height='40'>]() 
