@@ -6,11 +6,10 @@
 <img src="https://img.shields.io/github/followers/ChanqoDev?label=Follow&amp;style=social" alt="GitHub followers"> 
 
 
-### [<img src='https://github.com/chanqoDev/chanqoDev/blob/8c5cef470b383abc3a07ddfb9b21b209c2fd1295/chromeWebStore.png' alt='gith' max-width='100%'  height='50'>]() Download 2 of my most recent chrome extensions at Chrome Web Store! 
+### [<img src='https://github.com/chanqoDev/chanqoDev/blob/8c5cef470b383abc3a07ddfb9b21b209c2fd1295/chromeWebStore.png' alt='gith' max-width='100%'  height='50'>]() Download my most recent chrome extensions at Chrome Web Store! 
 
 Click Icon To | Download App!
 ------------- | -------------
-[<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/%E2%80%94Pngtree%E2%80%94cartoon%20creative%20element%20space%20rocket_5549888.png' alt='RocketPlanner' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/to-done-rocket-planner/nnmfajngjkedfjodhldodbbnmbdjkchk?hl=en-US&authuser=0)  | To-do List Rocket Planner
 [<img src='https://github.com/chanqoDev/chanqoDev/blob/9bb565ccfda3c8636ecedd2da376415ca4c33603/owl-icon125x125.png' alt='linkedin' max-width='100%' height='40'>](https://chrome.google.com/webstore/detail/nigthowl-mode%F0%9F%A6%89/eeejechfiigialpjicekkgeohaiklhke?hl=en-US&authuser=0)  | NightOwl Extension
 
 
