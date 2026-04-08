@@ -1,23 +1,29 @@
-## Hi, I'm Christian <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='100%' height='40'></a>
+## Hi, I'm Christian <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' max-width='40%' height='40'></a>
 
-Software Engineer focused on building scalable web applications and systems.
+Fullstack Software Engineer focused on building scalable web applications, APIs, and real-time systems.
 
-- 5+ years building and shipping production applications
-- Strong in React, TypeScript, and Node.js
-- Experience designing APIs, authentication systems, and fullstack architectures
-- Improved production performance from 16s → <3s through optimization and system design
+- 5+ years building and shipping production applications  
+- Strong in React, TypeScript, Node.js, and Angular  
+- Experience with APIs, authentication systems, and fullstack architecture  
+- Improved production performance from 16s → <3s through optimization  
 
 ## Current Focus
-- Building system design projects (queues, caching, real-time systems)
-- Strengthening data structures & algorithms
-- Deepening backend and distributed systems knowledge
+- Backend systems (APIs, caching, real-time architecture)  
+- System design and scalability  
+- Data structures & algorithms  
 
 ## Tech Stack
-React, TypeScript, Angular, Node.js, PostgreSQL, MySQL, Docker, AWS, Cloudflare
+React, TypeScript, Angular, Node.js, Express, PostgreSQL, MySQL, MongoDB, Docker, AWS
 
 ## Selected Work
-Check out my pinned repositories below for fullstack apps, APIs, and system design projects.
+Selected projects below highlight fullstack systems, APIs, and real-world applications.
 
+## What I Build
+- Fullstack applications  
+- REST APIs and backend systems  
+- Real-time features (WebSockets, events)  
+- Data-driven tools and dashboards
+  
 ## Links
 - LinkedIn: https://www.linkedin.com/in/christian-a-elena-barajas-a63785377/
 - Portfolio: https://christiandevportfolio.netlify.app/
