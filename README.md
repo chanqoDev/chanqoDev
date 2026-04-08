@@ -27,9 +27,7 @@ Selected projects below highlight fullstack systems, APIs, and real-world applic
 ## Links
 - LinkedIn: https://www.linkedin.com/in/christian-a-elena-barajas-a63785377/
 - Portfolio: https://christiandevportfolio.netlify.app/
-- GitHub: https://github.com/chanqoDev
 
 ## Community
 - Share technical content on YouTube
 - Youtube: https://www.youtube.com/channel/UCaHXZcSmcbPZiRII8KclXag
-- Host developer meetups locally 
