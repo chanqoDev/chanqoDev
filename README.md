@@ -23,3 +23,7 @@ Check out my pinned repositories below for fullstack apps, APIs, and system desi
 - Portfolio: https://christiandevportfolio.netlify.app/
 - GitHub: https://github.com/chanqoDev
 
+## Community
+- Share technical content on YouTube
+- Youtube: https://www.youtube.com/channel/UCaHXZcSmcbPZiRII8KclXag
+- Host developer meetups locally 
