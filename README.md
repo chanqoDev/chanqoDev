@@ -13,7 +13,7 @@ Software Engineer focused on building scalable web applications and systems.
 - Deepening backend and distributed systems knowledge
 
 ## Tech Stack
-React, TypeScript, Node.js, PostgreSQL, Docker, AWS
+React, TypeScript, Angular, Node.js, PostgreSQL, MySQL, Docker, AWS, Cloudflare
 
 ## Selected Work
 Check out my pinned repositories below for fullstack apps, APIs, and system design projects.
