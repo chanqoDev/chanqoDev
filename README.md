@@ -24,6 +24,6 @@ Selected projects below highlight fullstack systems, APIs, and real-world applic
 - Real-time features (WebSockets, events)  
 - Data-driven tools and dashboards
   
-## Links
+## Contact
 - LinkedIn: https://www.linkedin.com/in/christian-a-elena-barajas-a63785377/
 - Portfolio: https://christiandevportfolio.netlify.app/
