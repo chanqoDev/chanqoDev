@@ -2,7 +2,6 @@
 
 Fullstack Engineer building scalable web applications, APIs, and real-time systems.
 
-- 5+ years building and shipping production applications  
 - Strong in React, TypeScript, Node.js, and Angular  
 - Experience with APIs, authentication systems, and fullstack architecture  
 - Improved production performance from 16s → <3s through optimization  
